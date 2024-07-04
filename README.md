@@ -22,6 +22,8 @@
 **Spring Framework : 5.2.9.RELEASE**
 
 **DB : MySQL**
+
+**DMT : DBeaver**
 <br><br>
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1720017682582?alt=media&token=82ba5a41-9061-4964-88ff-8b9f112f3490)](https://github.com/msdio/stackticon)
@@ -31,7 +33,6 @@
 <br><br><br>
 ## :triangular_flag_on_post: 구현 결과
 - [X] **강성현 담당 : 메인 페이지의 서울소울맵과 소울로그**
-<br>
 <img width="1352" alt="성현님소울맵" src="https://github.com/yoonjunghae/spring/assets/126676367/dd9a1a8a-1edb-49ac-84b0-418d732e18dc">
 <img width="1339" alt="성현님1" src="https://github.com/yoonjunghae/spring/assets/126676367/ace0e4cb-13b4-4f7f-badb-fad001a7e68d">
 
